@@ -1,5 +1,8 @@
 # Intelligent-Detector
+----------------------------
+----------------------------
 ## Introduction
+----------------------------
 Intelligent Detector is a project that uses YOLO (You Only Look Once) object detection to identify and classify objects in images or video streams. This project can be used for various applications, such as surveillance, security, and monitoring.
 
 Features
