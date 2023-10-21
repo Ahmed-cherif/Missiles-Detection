@@ -10,7 +10,7 @@ Easy-to-use Python code.
 Getting Started
 These instructions will help you get the project up and running on your local machine.
 
-##Prerequisites
+## Prerequisites
 ----------------------------
 Python 3.x
 OpenCV
@@ -33,5 +33,6 @@ To install the MultiPDF Chat App, please follow these steps:
 4. The output will display real-time object detection with classification.
 
 ## Configuration
+----------------------------
 You can configure the classes you want to detect by modifying the classNames list in the Python script. You can also adjust the confidence threshold to control which detections are displayed.
    
